@@ -39,6 +39,6 @@ Our focus is on the structure, the API implementation and the output
 - The app should be working and buildable with no errors
 
 ## Bonus Points
-- If you want to impress us build the React SSR (with hydration) yourself without a framework
 - Create a dockerfile
 - Write tests!
+- If you want to impress us build the React SSR (with or without hydration) yourself without a framework
